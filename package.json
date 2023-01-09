@@ -2,17 +2,19 @@
   "name": "project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Fdobrovols/PET_project",
+  "homepage": "https://Fdobrovols.github.io/PET_project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /PET_project/"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "jquery": "^3.6.1",
